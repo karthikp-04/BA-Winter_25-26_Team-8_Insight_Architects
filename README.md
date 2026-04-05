@@ -21,12 +21,16 @@ This study integrates hierarchical sales data from a physical grocery store (201
    - `python eda_analysis.py`
    - `python statistical_analysis.py`
    - `python export_for_dashboard.py`
-3. **View Dashboard**: Open `dashboard/index.html` in any modern web browser.
+3. **View Dashboard**:
+   - Open locally: `dashboard/index.html` in any modern web browser
+   - Or view online: [Interactive Dashboard](https://karthikp-04.github.io/BA-Winter_25-26_Team-8_Insight_Architects/dashboard/)
 
 ## Analytical Techniques
 - **Exploratory Data Analysis (EDA)**: Time series analysis, distribution mapping, and bivariate plotting.
 - **Hypothesis Testing**: T-tests for weekend vs. weekday and rainy vs. non-rainy impact.
 - **Predictive Modeling**: Ordinary Least Squares (OLS) regression to isolate weather-driven demand variance.
+
+## 
 
 ## Team 8
 - CB.SC.U4CSE23522
